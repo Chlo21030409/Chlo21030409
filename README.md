@@ -9,8 +9,7 @@
 - <b>Statistical Modelling</b>
   - [Linear regression and modelling in R](https://github.com/Chlo21030409/Statistical-modelling)
 - <b>📊 Data visualisations in science </b>
-  - [ggplot2 in R](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Python](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [R and python](https://github.com/Chlo21030409/Data-Visualisation)
   
 
 <h2> 📃Certifications:</h2>
