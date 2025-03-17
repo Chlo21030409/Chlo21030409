@@ -7,7 +7,7 @@
 - <b>Python for data analysis </b>
   - [Olympics Analysis](https://github.com/Chlo21030409/Olympic-data)
 - <b>Statistical Modelling</b>
-  - [Linear regression and modelling in R](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Linear regression and modelling in R](https://github.com/Chlo21030409/Statistical-modelling)
 - <b>📊 Data visualisations in science </b>
   - [ggplot2 in R](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Python](https://github.com/joshmadakor1/Jwipe.PowerShell)
